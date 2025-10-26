@@ -36,11 +36,11 @@ O mesmo tratamento de dados teve que ser feito, a gama de filmes com minutagens 
 
 A Netflix e seus usuários devem achar que a faixa de 90 a 100 minutos a melhor de assistir, pois é a faixa onde há a maior quantidade de filmes no catálogo.
 
-## 📎 Dataset
+## Dataset
 - Fonte: [Netflix Movies and TV Shows – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Arquivo: `netflix_titles.csv`
 
-## 🧰 Ferramentas utilizadas
+## Ferramentas utilizadas
 - Python  
 - Pandas  
 - Matplotlib  
